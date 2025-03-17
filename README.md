@@ -13,4 +13,4 @@ A fun and interactive memory card game built using **HTML, CSS, and JavaScript**
 
 ## 🏗️ Installation
 1. Clone the repository:
-  git clone https://github.com/kstwki/memory-Game.git
+  git clone https://github.com/kstwkiv/memory-Game.git
