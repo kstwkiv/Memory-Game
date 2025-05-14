@@ -1,6 +1,6 @@
 # 🕹️ Memory Card Game
 
-A fun and interactive memory card game built using **HTML, CSS, and JavaScript**. Test your memory and try to match all the pairs in the shortest time possible!
+A fun and interactive memory card game built using **HTML, CSS, and JavaScript**. Test your memory and try to match all the pairs in the shortest time possible!!
 
 ## 🚀 Features
 - 🎮 Flip cards to find matching pairs.
